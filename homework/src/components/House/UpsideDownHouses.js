@@ -6,7 +6,7 @@ const UpsideDownHouses = () => {
   return (
     <div className="villa-container">
         <div>
-            <Link to="/" className="home-button">Home</Link>
+            <Link to="/HomeUnusualhouse" className="home-button">Home</Link>
         </div>
         <h1>Upside down houses</h1>
         <div className="image-gallery">

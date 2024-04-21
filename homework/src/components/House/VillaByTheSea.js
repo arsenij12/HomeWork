@@ -6,7 +6,7 @@ const VillaByTheSea = () => {
   return (
     <div className="villa-container">
         <div>
-            <Link to="/" className="home-button">Home</Link>
+            <Link to="/HomeUnusualhouse" className="home-button">Home</Link>
         </div>
         <h1>Villa by the Sea</h1>
         <div className="image-gallery">
