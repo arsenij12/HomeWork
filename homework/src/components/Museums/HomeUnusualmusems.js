@@ -5,8 +5,8 @@ const Home = () => {
   return (
     <div className="home-container">
         <a href='/' className="link-button">Home</a>
-      <h2>Домашняя страница</h2>
-      <p>Выберите одну из страниц:</p>
+      <h2>Home Page Museum</h2>
+      <p>Select one of the pages:</p>
       <ul>
         <li><a href="/MuseumOfIllusions" className="link-button">Museum of Illusions in Prague</a></li>
         <li><a href="/ChocolateMuseum" className="link-button">The Chocolate Museum in Barcelona</a></li>
