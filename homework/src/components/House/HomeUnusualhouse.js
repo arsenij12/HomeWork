@@ -1,7 +1,7 @@
 import React from 'react';
 import './HomeUnusualhouse.css';
 
-const Home = () => {
+const HomeUnusualhouse = () => {
   return (
     <div className="home-container">
         <a href='/' className="link-button">Home</a>
@@ -17,4 +17,4 @@ const Home = () => {
   );
 }
 
-export default Home;
+export default HomeUnusualhouse;

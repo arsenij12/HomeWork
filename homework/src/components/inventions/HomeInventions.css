@@ -1,0 +1,33 @@
+.home-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #0077cc; /* Голубой цвет для заголовка */
+  }
+  
+  ul {
+    list-style-type: none; /* Убираем маркеры списка */
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .link-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0077cc; /* Голубой цвет для кнопки */
+    color: white;
+    text-decoration: none; /* Убираем подчеркивание ссылок */
+    border-radius: 5px; /* Закругляем углы кнопки */
+    transition: background-color 0.3s ease; /* Плавное изменение цвета при наведении */
+  }
+  
+  .link-button:hover {
+    background-color: #005faa; /* Изменяем цвет при наведении */
+  }
+  

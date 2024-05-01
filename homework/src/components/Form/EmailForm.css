@@ -1,0 +1,12 @@
+
+.personal-info {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .personal-info p {
+    margin: 5px 0;
+  }

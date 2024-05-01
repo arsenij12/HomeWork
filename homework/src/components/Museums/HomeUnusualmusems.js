@@ -1,7 +1,7 @@
 import React from 'react';
 import './HomeUnusualmusems.css';
 
-const Home = () => {
+const HomeUnusualmusems = () => {
   return (
     <div className="home-container">
         <a href='/' className="link-button">Home</a>
@@ -16,4 +16,4 @@ const Home = () => {
   );
 }
 
-export default Home;
+export default HomeUnusualmusems;
